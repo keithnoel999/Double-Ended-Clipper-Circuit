@@ -164,3 +164,13 @@ The output voltage is measured across this resistor.
 ### Oscilloscope
 
 The oscilloscope displays the input and output waveforms and is used to observe the clipping action.
+
+## Conclusion
+
+The biased double-ended clipper circuit was successfully designed and simulated using Multisim.
+
+The circuit limits both the positive and negative peaks of the AC input waveform using two oppositely connected 1N4007 diodes and 2.5 V DC bias sources.
+
+The output waveform demonstrates clipping at both the positive and negative voltage levels, confirming the expected operation of the double-ended clipper circuit.
+
+This project demonstrates the practical use of diode circuits for waveform shaping, signal conditioning, and voltage limiting applications.
