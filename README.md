@@ -1,4 +1,4 @@
-Double-Ended Clipper Circuit
+## Double-Ended Clipper Circuit
 
 ## Overview
 
